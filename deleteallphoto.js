@@ -15,18 +15,18 @@ const User = [
 	{
 		type:'input',
 		name:'username',
-		message:'Insert Username'
+		message:'shahidn3m0'
 	},
 	{
 		type:'password',
 		name:'password',
-		message:'Insert Password',
+		message:'shahid020599',
 		mask:'*'
 	},
 	{
 		type:'input',
 		name:'sleep',
-		message:'Insert Sleep (In MiliSeconds)',
+		message:'6',
 		validate: function(value){
 			value = value.match(/[0-9]/);
 			if (value) return true;
