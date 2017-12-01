@@ -10,7 +10,7 @@ const delay = require('delay');
 const _ = require('lodash');
 
 const User = {
-    username: 'shahidn3', // Your Username Instagram
+    username: 'shahidn3m0', // Your Username Instagram
     password: 'shahid020599', // Your Password Instagram
 }
 
